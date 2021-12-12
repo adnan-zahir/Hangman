@@ -1,0 +1,15 @@
+/home/movaa/coding/cs/Hangman/bin/Debug/net6.0/Hangman
+/home/movaa/coding/cs/Hangman/bin/Debug/net6.0/Hangman.deps.json
+/home/movaa/coding/cs/Hangman/bin/Debug/net6.0/Hangman.runtimeconfig.json
+/home/movaa/coding/cs/Hangman/bin/Debug/net6.0/Hangman.dll
+/home/movaa/coding/cs/Hangman/bin/Debug/net6.0/ref/Hangman.dll
+/home/movaa/coding/cs/Hangman/bin/Debug/net6.0/Hangman.pdb
+/home/movaa/coding/cs/Hangman/obj/Debug/net6.0/Hangman.csproj.AssemblyReference.cache
+/home/movaa/coding/cs/Hangman/obj/Debug/net6.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/home/movaa/coding/cs/Hangman/obj/Debug/net6.0/Hangman.AssemblyInfoInputs.cache
+/home/movaa/coding/cs/Hangman/obj/Debug/net6.0/Hangman.AssemblyInfo.cs
+/home/movaa/coding/cs/Hangman/obj/Debug/net6.0/Hangman.csproj.CoreCompileInputs.cache
+/home/movaa/coding/cs/Hangman/obj/Debug/net6.0/Hangman.dll
+/home/movaa/coding/cs/Hangman/obj/Debug/net6.0/ref/Hangman.dll
+/home/movaa/coding/cs/Hangman/obj/Debug/net6.0/Hangman.pdb
+/home/movaa/coding/cs/Hangman/obj/Debug/net6.0/Hangman.genruntimeconfig.cache
